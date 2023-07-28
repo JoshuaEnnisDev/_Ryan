@@ -1,0 +1,97 @@
+{
+    "store": [
+        {
+            "name": "basic sword",
+            "price": 7,
+            "power": 4
+        },
+        {
+            "name": "potion",
+            "price": 5,
+            "health": 5
+        }
+    ],
+    "rooms": [
+        {
+            "id": 1,
+            "desc": "a large room",
+            "north": 3,
+            "south": null,
+            "east": 2,
+            "west": 4
+        },
+        {
+            "id": 2,
+            "desc": "a smaller room",
+            "north": null,
+            "south": null,
+            "east": null,
+            "west": 1
+        },
+        {
+            "id": 3,
+            "desc": "the escape room",
+            "north": null,
+            "south": 1,
+            "east": null,
+            "west": null,
+            "requires_key": "master key",
+            "winner": true
+        },
+        {
+            "id": 4,
+            "desc": "an empty room",
+            "north": null,
+            "south": 5,
+            "east": 1,
+            "west": null
+        },
+        {
+            "id": 5,
+            "desc": "a plain room",
+            "north": 4,
+            "south": null,
+            "east": 6,
+            "west": null
+        },
+        {
+            "id": 6,
+            "desc": "a suspicious room",
+            "north": null,
+            "south": 7,
+            "east": null,
+            "west": 5
+        },
+        {
+            "id": 7,
+            "desc": "the no way out rom",
+            "north": 6,
+            "south": null,
+            "east": null,
+            "west": null
+        }
+    ],
+    "monsters": [
+        {
+            "name": "goblin",
+            "room_id": 2,
+            "health": 10,
+            "attack": 4,
+            "starting_health": 10
+        }
+    ],
+    "items": [
+        {
+            "name": "master key",
+            "room_id": 2
+        }
+    ],
+    "users": {
+        "name": "josh",
+        "money": 10,
+        "inventory": [],
+        "room_id": 6,
+        "health": 20,
+        "message": ""
+    }
+}
