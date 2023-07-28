@@ -9,10 +9,11 @@ TITLE = 'Runner'
 player = Actor('player/player_walk_1')
 player.bottom = 305
 player.left = 20
+gravity = 0
 
 #snail actor
 snail = Actor('snail/snail1')
-#snail.right = WIDTH - 20
+snail.left = WIDTH
 snail.bottom = 305
 
 game_started = False
@@ -36,15 +37,31 @@ def draw():
                         fontname = 'pixeltype', 
                         color = '#555555'
                     )
-
         player.draw()
         snail.draw()
 
-def update():
-    # tells python we are talking about the
-    # variable we made outside of the function
-    global game_started 
+def on_key_down():
+    global gravity
+    if keyboard.space and player.bottom >= 305:
+            gravity = -20
 
+def update():
+    global game_started
+    global gravity
+    
+    #stuff that hapens when game is running
+    if game_started:
+        #player logic
+        gravity += 1
+        player.y += gravity
+        if player.bottom >= 305:
+            player.bottom = 305
+            
+        #snail logic
+        snail.x -= 4
+        if snail.right <= 0:
+            snail.left = WIDTH
+        
     if not game_started and keyboard.space:
         game_started = True
 
