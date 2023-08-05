@@ -1,5 +1,5 @@
 from pgzrun import go
-from flake8 import screen, keyboard, Actor
+
 
 WIDTH = 800
 HEIGHT = 400
