@@ -15,6 +15,7 @@ gravity = 0
 snail = Actor('snail/snail1')
 snail.left = WIDTH
 snail.bottom = 305
+snail_timer = 30
 
 game_started = False
 
@@ -53,10 +54,13 @@ def on_key_down():
 def update():
     global game_started
     global gravity
+    global snail_timer
 
     # stuff that hapens when game is running
     if game_started:
         # player logic
+        snail_timer -= 1
+        print(snail_timer)
         gravity += 1
         player.y += gravity
         if player.bottom >= 305:
@@ -64,6 +68,8 @@ def update():
 
         # snail logic
         snail.x -= 4
+        if snail_timer <= 0:
+            snail_timer = 30
         if snail.right <= 0:
             snail.left = WIDTH
 

@@ -13,20 +13,26 @@ DIRECTIONS = ['north', 'south', 'east', 'west']
 def match_command(txt):
     return lambda cmd: cmd['match'](txt)
 
+
 def match_exactly(m):
     return lambda s: s == m
+
 
 def match_one_of(list):
     return lambda s: s in list
 
+
 def match_in(d, val):
     return lambda x: d[x] == val
 
+
 def match_starting_with(str):
     return lambda s: s.startswith(str)
-    
+
+
 def match_by(key, val):
     return lambda x: x[key] == val
+
 
 def find_where(is_true, list):
     for item in list:
@@ -34,18 +40,19 @@ def find_where(is_true, list):
             return item
     return None
 
+
 def get_directions(room):
     dirs = []
     for d in DIRECTIONS:
-        if room[d] != None:
+        if room[d] is not None:
             dirs.append(d)
     return dirs
         
 
 world = {
-      'users':[],
-      'store':[],
-      'rooms':[{'id':1, 'desc':"", 'north':None, 'south':None, 'east':None, 'west':None}],
+      'users': [],
+      'store': [],
+      'rooms': [{'id': 1, 'desc': "", 'north': None, 'south': None, 'east': None, 'west': None}],
       'monsters': [],
       'items': []
   }
