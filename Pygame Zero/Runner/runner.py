@@ -84,7 +84,7 @@ def update():
         # player logic
         player_timer -= 1
         if player_timer <= 0:
-            
+        
         gravity += 1
         player.y += gravity
         if player.bottom >= 305:
