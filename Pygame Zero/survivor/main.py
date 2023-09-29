@@ -1,7 +1,7 @@
 from pgzrun import go
 
-WIDTH = 400
-HEIGHT = 300
+WIDTH = 1792
+HEIGHT = 896
 TITLE = "Tiny Survivor"
 
 # actors
