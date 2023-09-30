@@ -5,7 +5,7 @@ HEIGHT = 896
 TITLE = "Tiny Survivor"
 
 # actors
-player = Actor("wizard_purple", (WIDTH / 2, HEIGHT / 2))
+player = Actor("wizard", (WIDTH / 2, HEIGHT / 2))
 player.speed = 3
 
 
@@ -27,7 +27,7 @@ def bound_player():
 
 
 def draw():
-    screen.fill((100, 150, 100))
+    screen.blit("dungeon1", (0, 0))
     player.draw()
 
 
