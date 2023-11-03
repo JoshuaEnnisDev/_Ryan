@@ -74,6 +74,7 @@ def circle_player(actors, speed):
 
 def update():
     move()
+    player.opacity -= 0.01
     bound_player()
     make_axe()
     global radius
