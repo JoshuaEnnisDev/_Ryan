@@ -1,6 +1,9 @@
 from pgzrun import go
 import math
 
+from actor import Actor
+
+
 WIDTH = 1792
 HEIGHT = 896
 TITLE = "Tiny Survivor"
@@ -16,6 +19,8 @@ direction = 0
 
 axe = Actor("axe", player.pos)
 
+print(dir(player))
+
 for i in range(3):
     axe = Actor("axe", player.pos)
     axes.append(axe)
@@ -26,7 +31,8 @@ for i in range(3):
 def move():
     if keyboard.a:
         # move left
-        player.x -= player.speed
+        # player.x -= player.speed
+        player.move_forward(5)
     elif keyboard.w:
         player.y -= player.speed
     # needs to be completed
@@ -74,9 +80,10 @@ def circle_player(actors, speed):
 
 def update():
     move()
-    player.opacity -= 0.01
+    # player.opacity -= 0.01
     bound_player()
     make_axe()
+    player.move_back(2)
     global radius
     global direction
     direction += 0.05
