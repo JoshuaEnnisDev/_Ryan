@@ -61,6 +61,7 @@ def make_axe():
 
 def draw():
     screen.blit("dungeon1", (0, 0))
+    screen.draw.filled_rect(Rect(0, 0, 1792, 50), "red")
     player.draw()
     if len(axes) > 0:
         axes[0].draw()
