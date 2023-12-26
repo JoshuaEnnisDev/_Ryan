@@ -1,0 +1,67 @@
+### Class 1: Introduction to Web Development
+
+**Objective:** Introduce the basics of web development and the importance of planning.
+
+1. **Welcome and Introduction (15 minutes):**
+   - Welcome the student to the first class of the web development course.
+   - Provide a brief overview of what the course will cover.
+   - Ask the student about their expectations and what they hope to learn.
+
+2. **Understanding the Web (30 minutes):**
+   - **Introduction to the Internet:**
+     - Discuss what the internet is and how it connects people and information.
+     - Explore how websites are an integral part of the online experience.
+   - **Overview of Web Development:**
+     - Explain the role of web developers in creating websites.
+     - Discuss the difference between front-end and back-end development.
+
+3. **Importance of Planning (40 minutes):**
+   - **Overview of Project Planning:**
+     - Introduce the concept of project planning in web development.
+     - Emphasize the importance of planning before starting a web project.
+   - **Components of Project Planning:**
+     - Discuss key components of project planning, such as defining goals, identifying the target audience, and outlining content.
+     - Explain how planning contributes to a smoother development process.
+
+4. **Hands-On Activity (30 minutes):**
+   - **Interactive Exercise:**
+     - Engage the student in a simple hands-on activity related to project planning.
+     - For example, ask them to outline the content and goals for a hypothetical personal webpage.
+   - **Discussion:**
+     - Encourage the student to share their thoughts on the planning process.
+     - Discuss any challenges they faced and strategies used to overcome them.
+
+5. **Introduction to HTML and CSS (15 minutes):**
+   - **Overview of HTML:**
+     - Introduce HTML as the markup language for creating the structure of a webpage.
+     - Mention key HTML tags like `<html>`, `<head>`, `<body>`.
+   - **Overview of CSS:**
+     - Introduce CSS as the styling language for enhancing the visual presentation of a webpage.
+     - Mention basic CSS properties like color, font-size, and margin.
+
+### Open-Ended Sample Questions for Discussion:
+
+- **Introduction to the Internet:**
+  - How would you describe the internet to someone who is unfamiliar with it?
+  - Can you name a few popular websites and explain their significance?
+
+- **Overview of Web Development:**
+  - What do you think web developers do, and how does their work impact the online world?
+  - Have you encountered any websites that impressed you with their design or functionality?
+
+- **Importance of Planning:**
+  - Why do you think it's essential to plan before starting a web development project?
+  - Can you think of examples where lack of planning might lead to challenges in a project?
+
+- **Components of Project Planning:**
+  - What are some key elements you would consider when defining the goals of a website?
+  - How can identifying the target audience help in tailoring the content of a webpage?
+
+- **Hands-On Activity:**
+  - What did you find challenging or interesting about the hands-on activity related to project planning?
+  - How do you think planning can contribute to the success of a web development project?
+
+- **Introduction to HTML and CSS:**
+  - Have you heard of HTML and CSS before, and if so, what do you know about them?
+  - How do you think HTML and CSS work together to create a webpage?
+

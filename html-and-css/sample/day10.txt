@@ -1,0 +1,44 @@
+Certainly! Here's the content for Class 10:
+
+---
+
+### Class 10: Final Project - Creating a Personal Website
+
+**Objective:** Combine all learned concepts into a personal website.
+
+1. **Planning (30 minutes):**
+   - Discuss the overall structure and content of a personal website.
+   - Encourage the student to plan sections such as "About Me," "Favorites," "Contact Me," "Gallery," "Timeline," "Quotes," "Info Card," "Random Facts," and "Photo Gallery."
+
+2. **Hands-On Activity (60 minutes):**
+   - Initiate the creation of the personal website.
+   - Guide the student in implementing each section, incorporating HTML and CSS elements learned in previous classes.
+   - Encourage creativity in design and content representation.
+
+3. **Project Work Time (90 minutes):**
+   - Allow ample time for the student to work on their personal website.
+   - Provide assistance and guidance as needed.
+   - Emphasize the importance of cohesive design and a user-friendly layout.
+
+4. **Testing and Refinement (30 minutes):**
+   - Instruct the student to test the personal website on various devices and browsers.
+   - Discuss potential challenges and provide solutions.
+   - Encourage the student to refine and polish the website for a seamless user experience.
+
+### Open-Ended Sample Questions for Discussion:
+
+- **Planning:**
+  - How did you decide on the sections and content for your personal website?
+  - What considerations did you keep in mind to ensure a cohesive and well-organized structure?
+
+- **Hands-On Activity:**
+  - Which HTML and CSS elements from previous classes are you excited to implement in your personal website?
+  - How do you plan to showcase your creativity in the design of different sections?
+
+- **Project Work Time:**
+  - What challenges did you face while working on specific sections of your personal website?
+  - How did you address design decisions to make your website visually appealing?
+
+- **Testing and Refinement:**
+  - What strategies did you use to test the responsiveness of your website on various devices?
+  - How did the testing process influence your decision-making for refinements?

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="quiz-styles.css">
+    <title>Quiz Game</title>
+    <script src="quiz-script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz Title</h1>
+        <div class="quiz-container">
+            <form id="quizForm" onsubmit="checkAnswers(event)">
+                <div class="question">
+                    <p>Question 1: What is the capital of France?</p>
+                    <ul class="choices">
+                        <li><label><input type="radio" name="q1" value="a">a) Paris</label></li>
+                        <li><label><input type="radio" name="q1" value="b">b) Berlin</label></li>
+                        <li><label><input type="radio" name="q1" value="c">c) Madrid</label></li>
+                        <li><label><input type="radio" name="q1" value="d">d) Rome</label></li>
+                    </ul>
+                </div>
+
+                <div class="question">
+                    <p>Question 2: What is the largest mammal in the world?</p>
+                    <ul class="choices">
+                        <li><label><input type="radio" name="q2" value="a">a) Elephant</label></li>
+                        <li><label><input type="radio" name="q2" value="b">b) Blue Whale</label></li>
+                        <li><label><input type="radio" name="q2" value="c">c) Giraffe</label></li>
+                        <li><label><input type="radio" name="q2" value="d">d) Gorilla</label></li>
+                    </ul>
+                </div>
+
+                <!-- Add more questions as needed -->
+
+                <button type="submit" class="submit-btn">Submit Answers</button>
+                <div>
+                    <p id="score"></p>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,62 @@
+hCertainly! Here's the detailed lesson plan for Class 8:
+
+---
+
+### Class 8: Exploring Web Elements - Part 1
+
+**Objective:** Expand knowledge by creating more web elements.
+
+1. **Recap and Review (15 minutes):**
+   - Welcome the student and briefly discuss their experience with the previous class on responsive design.
+   - Encourage the student to share any insights gained and challenges faced during making the "About Me" webpage responsive.
+
+2. **Project 1: Design a "Quotes" Page (40 minutes):**
+   - **Introduction to the Project:**
+     - Discuss the significance of incorporating quotes on a webpage.
+     - Introduce the project of creating a "Quotes" page.
+
+   - **HTML Structure:**
+     - Guide the student in planning the HTML structure for the "Quotes" page.
+     - Discuss the use of headings, paragraphs, and blockquotes for organizing quotes.
+
+   - **Styling with CSS:**
+     - Introduce CSS styles for text, background, and margins to enhance the visual appeal of the "Quotes" page.
+     - Encourage creativity in selecting fonts and colors.
+
+3. **Project 2: Create an "Info Card" Page (30 minutes):**
+   - **Introduction to the Project:**
+     - Discuss the concept of an "Info Card" and its application on webpages.
+     - Introduce the project of creating an "Info Card" page for a fictional character or place.
+
+   - **HTML Structure:**
+     - Guide the student in planning the HTML structure for the "Info Card" page.
+     - Discuss the use of headings, paragraphs, and lists for presenting information.
+
+   - **Styling with CSS:**
+     - Introduce CSS styles for borders, shadows, and background to create a visually appealing "Info Card."
+     - Discuss the importance of consistency in design.
+
+4. **Testing and Feedback (15 minutes):**
+   - **Testing the Pages:**
+     - Instruct the student to test both the "Quotes" page and the "Info Card" page on different devices.
+     - Emphasize the importance of responsive design principles.
+
+   - **Peer Review:**
+     - Facilitate a brief discussion on self-review, focusing on design consistency and visual harmony.
+     - Provide constructive feedback based on the student's own evaluation.
+
+### Open-Ended Sample Questions for Discussion:
+
+- **Project 1: Design a "Quotes" Page:**
+  - Why do you think adding a "Quotes" page is a valuable element on a website?
+  - How can CSS styles contribute to the overall aesthetic of the "Quotes" page?
+
+- **Project 2: Create an "Info Card" Page:**
+  - What information did you choose to include in your "Info Card," and why?
+  - How did you approach the styling of the "Info Card" to make it visually appealing?
+
+- **Testing and Feedback:**
+  - What challenges did you encounter while testing the "Quotes" and "Info Card" pages on different devices?
+  - How did self-review and peer feedback contribute to improving the design and layout?
+
+Feel free to use this lesson plan for your Class 8, and let me know if there are any adjustments you'd like or if you're ready for the next class!

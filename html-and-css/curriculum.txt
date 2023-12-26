@@ -1,0 +1,90 @@
+Day 1-2: Create Your First Webpage
+
+Project: Introduction Webpage
+  Create an HTML file introducing yourself.
+  Include a main heading with your name, a short paragraph about your interests, and a list of your favorite hobbies or activities.
+  Add a link to your favorite website.
+
+Day 3-4: Personal Bio Page
+
+Project: Personal Bio Webpage
+  Expand your webpage to include more details about yourself.
+  Add images (perhaps a profile picture and images related to your hobbies).
+  Experiment with different HTML tags such as <em>, <strong>, and <blockquote>.
+
+Day 5-7: Style Your Bio Page
+
+Project: Stylish Bio Page
+  Introduce CSS to style your bio page.
+  Experiment with different fonts, colors, and margins.
+  Use CSS classes to style specific elements differently.
+  Week 3-4: Styling with CSS
+
+Day 1-2: CSS Challenge
+
+Project: CSS Styling Challenge
+  Given an HTML file, apply various CSS properties to style it.
+  Focus on text styling, background colors, and the box model.
+
+Day 3-4: Personal Portfolio Page
+
+Project: Personal Portfolio
+  Create a portfolio webpage using HTML and CSS.
+  Include sections for your skills, projects, and contact information.
+  Use CSS to create an aesthetically pleasing layout.
+
+Day 5-7: Responsive Design
+
+Project: Responsive Portfolio
+  Make your portfolio responsive using media queries.
+  Ensure that your portfolio looks good on various devices and screen sizes.
+
+Week 5-6: Responsive Design and Layout
+
+Day 1-2: Flexbox Layout
+
+Project: Flexbox Fun
+Create a simple webpage using Flexbox for layout.
+Experiment with different Flexbox properties.
+Apply Flexbox to arrange items in rows and columns.
+Day 3-4: CSS Grid Layout
+
+Project: Grid Showcase
+Experiment with CSS Grid to create a grid-based layout.
+Use Grid to arrange elements in a more complex layout.
+Day 5-7: Responsive Navigation Menu
+
+Project: Responsive Navigation
+Implement a responsive navigation menu using HTML and CSS.
+Use media queries to create a mobile-friendly menu.
+Week 7-8: Introduction to JavaScript
+
+Day 1-2: Interactive Button
+
+Project: Interactive Button
+Create a button on your webpage.
+Use JavaScript to make the button change text or color when clicked.
+Day 3-4: Simple Quiz Game
+
+Project: Simple Quiz
+Develop a basic quiz game with HTML, CSS, and JavaScript.
+Include a few questions with multiple-choice answers.
+Use JavaScript to handle scoring and provide feedback.
+Day 5-7: DOM Manipulation
+
+Project: Dynamic Quiz
+Enhance the quiz game by dynamically updating the DOM with results.
+Use JavaScript to manipulate the DOM based on user interactions.
+Week 9-10: Mini-Projects and Application
+
+Day 1-5: Mini-Projects Sprint
+
+Project: Coding Sprint
+Short projects focused on specific topics (e.g., CSS animations, form validation with JavaScript, etc.).
+Encourage creativity and experimentation.
+Day 6-7: Final Web Application
+
+Project: Web Application
+Combine HTML, CSS, and JavaScript to build a more complex and interactive web application.
+Examples could include a to-do list, a weather app, or a personal blog.
+Encourage students to showcase creativity and apply the skills learned throughout the curriculum.

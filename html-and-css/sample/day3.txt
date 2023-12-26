@@ -1,0 +1,69 @@
+Certainly! Here is Class 3: Styling with CSS without the last paragraph:
+
+### Class 3: Styling with CSS
+
+**Objective:** Understand the basics of CSS for styling web pages.
+
+1. **Recap and Review (15 minutes):**
+   - Recap the key HTML concepts learned in the previous classes, focusing on the structure of HTML documents and the purpose of essential tags.
+   - Ask the student if they have any questions or if there are specific areas of HTML they would like to revisit.
+
+2. **Introduction to CSS (30 minutes):**
+   - **What is CSS?:**
+     - Explain the role of CSS (Cascading Style Sheets) in web development.
+     - Emphasize how CSS is used to control the layout and appearance of HTML elements.
+   - **CSS Syntax:**
+     - Introduce the basic syntax of CSS, including selectors, properties, and values.
+     - Discuss the concept of style rules and how they are applied to HTML elements.
+
+3. **Hands-On Styling (40 minutes):**
+   - **Linking CSS to HTML:**
+     - Guide the student in linking an external CSS file to their HTML document.
+     - Explain the `<link>` tag and its attributes for connecting HTML and CSS.
+   - **Basic Styling:**
+     - Explore basic CSS properties such as color, font-size, and margin.
+     - Allow the student to experiment with styling text and adjusting the spacing of elements.
+   - **Background and Border:**
+     - Introduce properties for setting background colors/images and borders.
+     - Have the student apply these properties to enhance the visual appeal of their "About Me" page.
+
+4. **Project Enhancement (15 minutes):**
+   - **Review "About Me" Page:**
+     - Have the student review their "About Me" webpage created in the previous class.
+     - Identify areas where CSS styling can be applied to improve the overall design.
+   - **Applying CSS:**
+     - Assist the student in integrating CSS rules to enhance the visual presentation of their webpage.
+
+5. **Share and Discuss (20 minutes):**
+   - **Peer Sharing:**
+     - Encourage the student to share their enhanced "About Me" page with a peer.
+     - Discuss the specific CSS styles implemented and their impact on the webpage.
+   - **Feedback and Improvement:**
+     - Provide constructive feedback on the use of CSS and suggest areas for improvement.
+     - Discuss the importance of balancing creativity with readability and user experience.
+
+### Open-Ended Sample Questions for Discussion:
+
+- **Understanding CSS:**
+  - How would you describe the role of CSS in web development, especially in relation to HTML?
+  - Can you think of examples where CSS can significantly impact the visual appeal of a webpage?
+
+- **CSS Syntax:**
+  - Explain the basic structure of a CSS rule. What are selectors, properties, and values?
+  - How does the concept of cascading in CSS influence the styling of elements?
+
+- **Hands-On Styling:**
+  - What changes did you make to the text styling (color, font-size) on your webpage, and why?
+  - How did adjusting margins contribute to the overall layout and spacing of elements?
+
+- **Background and Border:**
+  - Describe the impact of adding a background color or image to a webpage. Why might this be useful?
+  - How can borders be used to visually separate or emphasize different sections of a webpage?
+
+- **Project Enhancement:**
+  - In what ways did CSS enhance the visual presentation of your "About Me" page?
+  - Were there any challenges in integrating CSS, and how did you overcome them?
+
+- **Share and Discuss:**
+  - What did you learn from viewing your peer's enhanced "About Me" pages?
+  - How did feedback from others influence your approach to styling with CSS?

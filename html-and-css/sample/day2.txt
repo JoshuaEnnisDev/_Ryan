@@ -1,0 +1,72 @@
+Certainly! Here is the content for Class 2: Getting Started with HTML (Individual Student) that you can copy and paste into your preferred text editor or word processor:
+
+---
+
+### Class 2: Getting Started with HTML (Individual Student)
+
+**Objective:** Learn the fundamentals of HTML.
+
+1. **Recap and Review (15 minutes):**
+   - Briefly recap the key concepts from the previous class, emphasizing the importance of planning in web development.
+   - Ask the student if they encountered any challenges in the first project and how they overcame them.
+
+2. **Introduction to HTML (30 minutes):**
+   - **Explain the Basic Structure:**
+     - Describe the overall structure of an HTML document.
+     - Ask the student to articulate why each section (`<html>`, `<head>`, and `<body>`) is necessary in a webpage.
+   - **HTML Tags and Elements:**
+     - Discuss the concept of HTML tags and elements.
+     - Have the student identify the purpose of basic HTML tags like `<h1>`, `<p>`, `<img>`, and `<a>`.
+   - **Attributes:**
+     - Encourage the student to explore different attributes within HTML tags (e.g., src, alt, href).
+     - Discuss how attributes enhance the functionality and appearance of elements.
+
+3. **Hands-On Activity (40 minutes):**
+   - **Setting Up the Document:**
+     - Guide the student through setting up a basic HTML document using a text editor.
+     - Ask them to explain the importance of a clear and organized structure in their own words.
+   - **Creating Headings and Paragraphs:**
+     - Have the student practice creating headings (`<h1>`, `<h2>`) and paragraphs (`<p>`).
+     - Discuss with the student why maintaining a proper heading hierarchy is essential for accessibility.
+   - **Adding Images:**
+     - Introduce the `<img>` tag for adding images.
+     - Ask the student to describe how the addition of an image contributes to the overall webpage.
+
+4. **Project Introduction (15 minutes):**
+   - Introduce the "About Me" webpage project.
+   - Discuss with the student what personal information or interests they would like to include in their "About Me" page.
+   - Encourage the student to think about how HTML tags can help structure this information effectively.
+
+5. **Share and Discuss (20 minutes):**
+   - **Peer Sharing:**
+     - Allow the student to share their basic HTML page with you or with a partner.
+     - Ask them to explain the purpose of each HTML tag used and any decisions made in structuring their "About Me" page.
+   - **Reflection:**
+     - Discuss with the student how the hands-on activity and project align with real-world scenarios.
+     - Prompt them to reflect on the importance of HTML in creating a structured and visually appealing webpage.
+
+### Open-Ended Sample Questions for Discussion:
+
+- **Basic HTML Structure:**
+  - Why do we use the `<html>`, `<head>`, and `<body>` tags in an HTML document?
+  - How does the structure of an HTML document contribute to the organization of content?
+
+- **HTML Tags and Elements:**
+  - Can you explain the purpose of the `<h1>`, `<p>`, `<img>`, and `<a>` tags in your own words?
+  - How do these HTML tags help convey different types of information on a webpage?
+
+- **Attributes:**
+  - What is the role of attributes in HTML tags, and how do they enhance the functionality of elements?
+  - Can you provide examples of attributes used in the `<img>` and `<a>` tags and explain their significance?
+
+- **Hands-On Activity:**
+  - How did the process of setting up a basic HTML document enhance your understanding of document structure?
+  - In creating headings and paragraphs, did you find any challenges in maintaining proper hierarchy?
+
+- **Project Discussion:**
+  - What personal information or interests did you choose to include in your "About Me" page, and why?
+  - How do you think the use of HTML tags contributes to presenting this information effectively?
+
+- **Reflection:**
+  - In what ways can the skills learned in this class be applied to real-world scenarios or future projects?
+  - How do you see HTML as a foundational language in web development, and what aspects are you excited to explore further?

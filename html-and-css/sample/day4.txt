@@ -1,0 +1,68 @@
+Certainly! My apologies for the oversight. Here is Class 4: Creating a Navigation Menu with HTML and CSS without the last paragraph:
+
+### Class 4: Creating a Navigation Menu with HTML and CSS
+
+**Objective:** Learn to create a navigation menu using HTML and style it with CSS.
+
+1. **Recap and Review (15 minutes):**
+   - Review the concepts of HTML and CSS covered in previous classes.
+   - Ask the student to recall the key elements of HTML and some basic CSS properties.
+
+2. **Introduction to Navigation Menus (30 minutes):**
+   - **Purpose of Navigation:**
+     - Discuss the importance of navigation menus on websites.
+     - Explore examples of effective navigation menus on popular websites.
+   - **HTML Structure for Navigation:**
+     - Introduce HTML elements (`<nav>`, `<ul>`, `<li>`, `<a>`) for creating a navigation menu.
+     - Discuss the role of each element in structuring the menu.
+
+3. **Hands-On Navigation Menu (40 minutes):**
+   - **Creating the HTML Structure:**
+     - Guide the student in adding a navigation menu to their "About Me" webpage.
+     - Discuss the use of lists (`<ul>` and `<li>`) for structuring menu items.
+   - **Linking Menu Items:**
+     - Explain how to create links (`<a>`) within menu items to connect to different sections of the webpage.
+     - Have the student link their menu items to relevant sections.
+
+4. **Styling the Navigation Menu (15 minutes):**
+   - **CSS Styling:**
+     - Introduce CSS styling for the navigation menu.
+     - Discuss properties such as `display`, `list-style`, `text-decoration`, and `padding`.
+   - **Hover Effects:**
+     - Implement a hover effect on menu items to provide visual feedback.
+     - Discuss the use of the `:hover` pseudo-class.
+
+5. **Project Enhancement and Testing (20 minutes):**
+   - **Review and Enhance:**
+     - Have the student review their "About Me" webpage with the newly added navigation menu.
+     - Identify areas for improvement and additional styling.
+   - **Testing Links:**
+     - Test the functionality of the navigation links to ensure they navigate to the correct sections.
+     - Troubleshoot and fix any issues that may arise.
+
+### Open-Ended Sample Questions for Discussion:
+
+- **Navigation Menus:**
+  - Why are navigation menus important on websites, and what purpose do they serve?
+  - Can you think of websites where the navigation menu enhances the user experience?
+
+- **HTML Structure for Navigation:**
+  - How does the HTML structure for a navigation menu differ from other HTML elements?
+  - Why is using a list (`<ul>` and `<li>`) a good practice for creating navigation menus?
+
+- **Creating the HTML Structure:**
+  - What menu items did you choose for your navigation menu, and why?
+  - How does adding links (`<a>`) within list items contribute to creating a functional menu?
+
+- **CSS Styling:**
+  - What CSS properties did you use to style the overall appearance of the navigation menu?
+  - Why is it important to consider aesthetics and readability when styling a navigation menu?
+
+- **Hover Effects:**
+  - Explain the purpose of implementing a hover effect on menu items.
+  - How can the `:hover` pseudo-class improve the user's interaction with the navigation menu?
+
+- **Project Enhancement and Testing:**
+  - In reviewing your webpage with the navigation menu, what improvements can be made?
+  - How do you ensure that the navigation links work correctly, and why is testing important?
+  
